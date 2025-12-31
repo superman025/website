@@ -130,7 +130,7 @@ Publish the website in the given URL.
     </section>
  <img src="banner.png"height="700",width="700"style="display: block; margin: 0 auto;">
 <footer>
-  <p>© 2025 Designed By Divya</p>
+  <p>© 2025 Designed By srijai</p>
 </footer>
 </body>
 </html>
